@@ -11,7 +11,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
-          "url": "https://github.com/zain-bin/LOKI/tree/main/releases/v1.0.0/esp32_JM_LOKI_1.0.tar.bz2",
+          "url": "https://github.com/zain-bin/LOKI/blob/main/releases/v1.0.0/esp32_JM_LOKI_1.0.tar.bz2",
           "archiveFileName": "esp32_JM_LOKI_1.0.tar.bz2",
           "checksum": "SHA-256:4579C5E5981C105CEC409F7847A584E2065AAE7E9F3A38BBC11110E7EB613993",
           "size": "1942",
