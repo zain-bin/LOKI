@@ -3,7 +3,7 @@
     {
       "name": "JM_Robotics",
       "maintainer": "mighty_Kitten",
-      "websiteURL": "https://github.com/JM-Robotics/JM_etherium/commits?author=zain-bin",
+      "websiteURL": "https://github.com/zain-bin",
       "email": "zain@jmrobotics.no",
       "platforms": [
         {
@@ -11,7 +11,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
-          "url": "https://github.com/yourusername/your-repo/releases/download/v1.0.0/your-board-package-1.0.0.tar.bz2",
+          "url": "https://github.com/zain-bin/LOKI/tree/main/releases/V1.0.0/esp32_JM_LOKI_1.0.0.rar",
           "archiveFileName": "esp32_JM_LOKI_1.0.0.rar",
           "checksum": "SHA-256:your-checksum-here",
           "size": "4 KB",
