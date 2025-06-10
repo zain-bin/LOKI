@@ -1,0 +1,39 @@
+{
+  "packages": [
+    {
+      "name": "JM_Robotics",
+      "maintainer": "mighty_Kitten",
+      "websiteURL": "https://github.com/JM-Robotics/JM_etherium/commits?author=zain-bin",
+      "email": "zain@jmrobotics.no",
+      "platforms": [
+        {
+          "name": "esp32_JM_LOKI",
+          "architecture": "esp32",
+          "version": "1.0.0",
+          "category": "ESP32",
+          "url": "https://github.com/yourusername/your-repo/releases/download/v1.0.0/your-board-package-1.0.0.tar.bz2",
+          "archiveFileName": "your-board-package-1.0.0.tar.bz2",
+          "checksum": "SHA-256:your-checksum-here",
+          "size": "file-size-in-bytes",
+          "boards": [
+            {
+              "name": "esp32_JM_LOKI"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.5.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

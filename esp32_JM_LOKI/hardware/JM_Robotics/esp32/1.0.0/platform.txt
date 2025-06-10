@@ -1,0 +1,6 @@
+name=esp32_JM_LOKI
+version=1.0.0
+
+# Extend the official ESP32 platform
+runtime.platform.path={runtime.hardware.path}/espressif/esp32
+core.path={runtime.platform.path}/cores/esp32
