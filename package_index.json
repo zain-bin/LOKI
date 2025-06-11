@@ -11,6 +11,8 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
+          "description": "LOKI- LAN Offload Kommunikasjon Interface- Custom ESP32 Ethernet board by JM Robotics for subsea embedded and sensor applications.",
+          "homepage": "http://jmrobotics.no/nb_NO/jmrobotics",
           "url": "https://raw.githubusercontent.com/zain-bin/LOKI/main/releases/v1.0.0/esp32_JM_LOKI_1.0.tar.bz2",
           "archiveFileName": "esp32_JM_LOKI_1.0.tar.bz2",
           "checksum": "SHA-256:4579C5E5981C105CEC409F7847A584E2065AAE7E9F3A38BBC11110E7EB613993",
